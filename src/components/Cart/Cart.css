@@ -1,9 +1,11 @@
-.cart {
+.cart,
+.selected {
   padding-left: 10px;
   background-color: lightgrey;
   border-radius: 10px;
   width: 285px;
   border: 1px solid lightgrey;
+  margin-bottom: 10px;
 }
 .cart h4 {
   padding: 20px 0;
@@ -11,4 +13,7 @@
 .cart h5,
 h6 {
   padding-bottom: 10px;
+}
+.selected h5 {
+  padding: 10px 0;
 }

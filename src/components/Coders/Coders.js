@@ -14,8 +14,9 @@ const Coders = () => {
     }, []);
     // update cart item
     const handleAddToCart = coder => {
-        const newCart = [...cart, coder];
-        setCart(newCart);
+        if (!cart.includes(coder)) {
+            setCart([...cart, coder]);
+        }
     }
     return (
         <div className="coders">
