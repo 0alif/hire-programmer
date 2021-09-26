@@ -1,7 +1,14 @@
 .cart {
-  padding-left: 5px;
+  padding-left: 10px;
   background-color: lightgrey;
   border-radius: 10px;
-  width: 300px;
+  width: 285px;
   border: 1px solid lightgrey;
+}
+.cart h4 {
+  padding: 20px 0;
+}
+.cart h5,
+h6 {
+  padding-bottom: 10px;
 }

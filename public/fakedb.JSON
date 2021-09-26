@@ -32,7 +32,7 @@
         "language": "Javascript",
         "age": 46,
         "country": "America",
-        "salary": 200000,
+        "salary": 288000,
         "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-WFFYmpAjcbY/Uwjj4OJAi1I/AAAAAAAACHI/Q3IID-7Exao/s1600/Linus+Torvalds.jpeg?ezimgfmt=rs:337x399/rscb1/ng:webp/ngcb1"
     },
     {
@@ -50,7 +50,7 @@
         "language": "C++",
         "age": 56,
         "country": "Europe",
-        "salary": 205000,
+        "salary": 295000,
         "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-r4Lw1v8wP3o/UwjkHcoKMcI/AAAAAAAACHQ/41SzDLQs3M0/s1600/Tim+Berners-Lee.jpg?ezimgfmt=rs:320x320/rscb1/ng:webp/ngcb1"
     },
     {
@@ -59,7 +59,7 @@
         "language": "C programming",
         "age": 60,
         "country": "Canada",
-        "salary": 205000,
+        "salary": 273000,
         "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/2.bp.blogspot.com/-vjmojesfTK0/UwjkPF_nLLI/AAAAAAAACHY/7cTOimc_e5g/s1600/Brian+Kernighan.jpg?ezimgfmt=rs:400x267/rscb1/ng:webp/ngcb1"
     },
     {
@@ -68,7 +68,7 @@
         "language": " C programming",
         "age": 56,
         "country": "America",
-        "salary": 205000,
+        "salary": 225000,
         "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-Zznu7fM9g30/UwjkeqBlcjI/AAAAAAAACHo/EHhf0RF-nF8/s1600/Ken+Thompson.jpg?ezimgfmt=rs:320x317/rscb1/ng:webp/ngcb1"
     },
     {
@@ -77,7 +77,7 @@
         "language": "Python",
         "age": 56,
         "country": "America",
-        "salary": 205000,
+        "salary": 267000,
         "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-EtgZqoZX2dE/Uwjk3qbwbBI/AAAAAAAACH4/8vJw4USybms/s1600/Guido+van+Rossum.jpg?ezimgfmt=rs:296x398/rscb1/ng:webp/ngcb1"
     },
     {
@@ -86,7 +86,7 @@
         "language": " C#",
         "age": 56,
         "country": "America",
-        "salary": 205000,
+        "salary": 285400,
         "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/1.bp.blogspot.com/-S_87vSTDN60/UwjkX9yyl4I/AAAAAAAACHg/FImj-V0oPHE/s1600/Donald+Kuth.jpg?ezimgfmt=rs:337x399/rscb1/ng:webp/ngcb1"
     }
 ]
