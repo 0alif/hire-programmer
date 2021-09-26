@@ -1,0 +1,20 @@
+.coder {
+  box-sizing: border-box;
+  background-color: lightgrey;
+  width: 300px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.coder img {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+.add-to-cart {
+  background-color: rgb(252, 112, 97);
+  color: white;
+}

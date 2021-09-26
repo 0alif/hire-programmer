@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div className="header">
             <h1>Make an Programmers team</h1>
-            <h3>Total Budget: 50 Million</h3>
+            <h3>Total Budget: 10 Million</h3>
         </div>
     );
 };
